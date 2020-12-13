@@ -8,9 +8,6 @@ will construct a Keras neural network with the given configurations and train it
 
 <p>The results page, will list various model plots such as training vs. validation error per epoch and selected metric plots.  New_config button can be clicked to restart the process and build a new model.  If satisfied with results, the trained model is saved in static/model folder and can be retrieved for further independent analysis.</p>
 
-<strong>Demo_Video.mp4</strong> for video demo of app
-<strong>static/model/my_model</strong> for your trained Keras neural network model 
-
 <h3>Strict Version Dependencies</h3>
 <ul>
     <li> Keras version 2.2.5 </li>

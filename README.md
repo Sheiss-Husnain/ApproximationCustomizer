@@ -1,4 +1,4 @@
-# Neural Network Regression Web App
+# Regression Customizer Web App
 <p>
 Web application that allows user to input parameters for a custom neural network for regression of most common mathematical functions. </p>
 
